@@ -17,8 +17,13 @@
             </intent-filter>
         </activity>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <activity android:name=".Login" />
         <activity android:name=".PersonalHomePage"></activity>
+=======
+        <activity android:name=".CreateNewChallange" />
+        <activity android:name=".createNewTask"></activity>
+>>>>>>> 6aebc8059fa7e889cdf980bffddb15029ba1d871
 =======
         <activity android:name=".CreateNewChallange" />
         <activity android:name=".createNewTask"></activity>
