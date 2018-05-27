@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CreateNewChallange"></activity>
+        <activity android:name=".CreateNewChallange" />
+        <activity android:name=".createNewTask"></activity>
     </application>
 
 </manifest>
