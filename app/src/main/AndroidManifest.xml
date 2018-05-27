@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.avisagal.myapplication">
+    package="com.example.shimmy.myapplication">
 
     <application
         android:allowBackup="true"
@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+        <activity android:name=".Login" />
+        <activity android:name=".PersonalHomePage"></activity>
+=======
+        <activity android:name=".CreateNewChallange" />
+        <activity android:name=".createNewTask"></activity>
+>>>>>>> 6aebc8059fa7e889cdf980bffddb15029ba1d871
     </application>
 
 </manifest>
